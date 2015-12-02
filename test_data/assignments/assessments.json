@@ -1,0 +1,92 @@
+{
+
+    "systemgenerated":{
+
+        "scorestrategyhigh": {
+
+            "name":"ROBO-Q",
+
+            "revealdate": "",
+
+            "chapter": "3",
+
+            "questions":5,
+
+            "unlimitedattempts": "U",
+
+            "scorezero": "0",
+
+            "attempts":"0",
+
+            "editedAttempts":"2",
+
+            "attemptsremaining":"Attempts Remaining: 1/2",
+
+            "attemptsremaining2":"Attempts Remaining: 0/2",
+
+            "attemptsprogressmsg":"Attempt in Progress",
+
+            "score":30,
+
+            "scoreStrategy":"report-type"
+        },
+        "scorestrategyAverage": {
+
+            "name":"ROBO-Q",
+
+            "revealdate": "",
+
+            "chapter":"3",
+
+            "questions":5,
+
+            "attempts":3,
+
+            "score":75,
+
+            "scoreStrategy":"report-average"
+        },
+
+        "QuestionStrategy":{
+          "option":[
+            "Choose for Me",
+            "I Will Choose"
+          ]
+        },
+
+        "iwillchoose":{
+          "chapter": "1",
+          "dueRevealDate": "Today",
+          "questions":3,
+          "filter":{
+              "Type":[
+                "fill-in",
+                "multiple-choice",
+                "true-false"
+              ],
+              "Blooms":[
+                "Remember",
+                "Understand",
+                "Apply"
+              ],
+              "Difficulty":[
+                "Easy",
+                "Moderate",
+                "Challenging"
+              ],
+              "ConceptsNumber":[
+                1,
+                2
+              ]
+          }
+        }
+    },
+    "service":{
+        "integration" : {
+                "url":"https://4ltr-services-dev.cengage.info/services"
+        },
+        "production" : {
+                "url":"https://4ltr-services.cengage.info/services"
+        }
+    }
+}

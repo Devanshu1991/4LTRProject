@@ -1,0 +1,158 @@
+{
+  "url_student": "http://s-4ltrpress.cengage.com/api/sessions",
+  "url_instructor": "https://s-login.cengage.com/cb/login.htm",
+  "dev_url":"https://d-login.cengagebrain.com/cb/login.htm",
+  "staging_url":"https://s-c-login.cengage.com",
+  "integration_url":"https://kt-login.cengage.com/cb/",
+  "course_url":"http://kt-login.cengagebrain.com/course/4LPN995PPVZC",
+  
+"users":{
+
+	"instructor":[
+		 {
+		    "credentials":{
+				    "username":"qa.inst.devint1@cengage.com",
+				    "password":"T3sting"
+		   	}
+		 }
+ 	],
+
+	"student": [
+     	 {
+	        "credentials": {
+		          "username": "4ltr-int-student01@cengage.com",
+		          "password": "T3sting"
+       		 }
+    	  }
+  	],
+  	
+  	"newinstructor": [
+     	 {
+	        "credentials": {
+		          "username": "4ltr-qa-inst@cengage.com",
+		          "password": "T3sting"
+       		 }
+    	  }
+  	],
+  	"newstudent": [
+     	 {
+	        "credentials": {
+		          "username": "4ltr.qa.student.nirmal@cengage.com",
+		          "password": "T3sting"
+       		 }
+    	  }
+  	],
+  	"selfstudent": [
+     	 {
+	        "credentials": {
+		          "username": "selfstudy.student.6@cengage.com",
+		          "password": "T3sting"
+       		 }
+    	  }
+  	],
+  	
+  	"devInstructor":[
+  		{
+  		    "credentials": {
+  		    	"username": "qa.inst.devint1@cengage.com",
+  		    	"password" : "T3sting"
+  		    }
+  		}
+  	],
+  	"ConceptTrackerStudent":[
+  		{
+  		    "credentials": {
+  		    	"username": "4ltr-qa-student1@cengage.com",
+  		    	"password" : "T3sting"
+  		    }
+  		}
+  	],
+  	"conceptTrackerInstructor":[
+  		{
+  		    "credentials": {
+  		    	"username": "4ltr-qa-inst@cengage.com",
+  		    	"password" : "T3sting"
+  		    }
+  		}
+  	],
+  	
+  	"stagingInstructor":[
+  		{
+  		    "credentials": {
+  		    	"username": "FourLtr.ChoasInstructor5@cengage.com",
+  		    	"password" : "T3sting"
+  		    }
+  		}
+  	],
+  	
+  	"stagingFirstStudentUser":[
+  	{
+  		    "credentials": {
+  		    	"username": "FourLtr.ChaosStudent17@cengage.com",
+  		    	"password" : "T3sting"
+  		    }
+  		}
+  	],
+  	
+  		"stagingSecondStudentUser":[
+  	{
+  		    "credentials": {
+  		    	"username": "FourLtr.ChaosStudent18@cengage.com",
+  		    	"password" : "T3sting"
+  		    }
+  		}
+  	]
+  	
+},
+
+"products": {
+
+		"Product1":[
+			{
+				"name": "Marketing",
+			    "values":  {
+					"name": "MKTG",
+			        "course": "MKTG9 Course",
+			        "testCourse": "TestCourse",
+			        "staging_course":"MKTG9 Dev Course1"
+	     		 }
+	       }
+		],
+		
+		"Product2":[
+			{
+				"name":"Psychology",
+				"values":  {
+					"name": "PSYCH",
+			        "course": "4LTR Dev PSYCH4 Course 2",
+			        "staging_course": "PSYCH4 Dev Course1"
+	      		}
+	      	}
+		],
+		
+		 "Product3":[
+			{
+				"name": "Assignments Course",
+			    "values":  {
+					"name": "MKTG",
+			        "course": "QA - Assignments Course",
+			        "testCourse": "TestCourse",
+			        "staging_course":"MKTG9 Dev Course1"
+	     		 }
+	       }
+		],
+		"Product4":[
+			{
+				"name": "Test Course July 31, 2015",
+			    "values":  {
+					"name": "MKTG",
+			        "course": "QA - Assignments Course",
+			        "testCourse": "TestCourse",
+			        "staging_course":"MKTG9 Dev Course1"
+	     		 }
+	       }
+		]
+
+	}
+
+}

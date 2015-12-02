@@ -1,0 +1,28 @@
+{
+    "staging_url":"https://s-c-login.cengage.com/cb/login.htm",
+
+    "users":{
+
+        "instructor":[
+            {
+                "credentials":{
+
+                    "username":"FourLtr.Instructor.1441895032654.10@swlearning.com",
+                    "password":"T3sting"
+                }
+            }
+        ],
+
+        "student": [
+            {
+                "credentials": {
+                    "username": "qa.student.staging@cengage.com",
+                    "password": "T3sting",
+                    "firstname": "QA",
+                    "lastname": "Staging"
+                }
+            }
+        ]
+
+    }
+}

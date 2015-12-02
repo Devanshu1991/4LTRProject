@@ -1,0 +1,473 @@
+{
+    "products": [
+        {
+            "productid": "MKTG9",
+            "chapter": {
+                "id": 1,
+                "title": "An Overview of Marketing",
+                "title2": "Strategic Planning for Competitive Advantage",
+                "topic": {
+                    "id": 1,
+                    "title": " What Is Marketing?",
+                    "titlehero": "WHAT IS MARKETING?",
+                    "chapterhighlightitem": "BRSNVB114791020",
+                    "studybit": {
+                        "text": {
+                            "id": "UOAACS502645371",
+                            "concepts": [
+                                "Marketing"
+                            ],
+                            "usertag": "Robo Text",
+                            "notes": "This studybit is created by a Robot",
+                            "comprehension": "strong",
+                            "windowScrollY": "700",
+                            "chaptername": "Chapter 1 | 1-1: What Is Marketing?",
+                            "relateditems": [
+                                {
+                                    "href": "/products/NAMVQX891MKEV5U62977/topics/LMWHVT971000173?itemId=LMWHVT971000173"
+                                },
+                                {
+                                    "href": "/products/NAMVQX891MKEV5U62977/topics/JHIDPZ740999214?itemId=YNMGUD363419972"
+                                }
+                            ]
+                        },
+                        "keyterm": {
+                            "id": "OZHSNO211811136",
+                            "definition": "the activity, set of institutions, and processes for creating, communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society at large",
+                            "publishertag": "Marketing",
+                            "comprehension": "FAIR",
+                            "notes": "Marketing Key Term studybit created by Robot",
+                            "usertag": "Robot Key Term",
+                            "windowScrollY": "1400"
+                        },
+                        "exhibit":{
+                        	"chapter" : 2,
+                            "chaptertitle":"Strategic Planning for Competitive Advantage",
+                        	"topic" : 3,
+                            "topicname":"Strategic Alternatives",
+                        	"exhibitId":"2.1",
+                        	"studybitId" : "YNWQIU780966014",
+                        	"concepts": [
+                                "Operating matrix",
+                                "Market penetration",
+                                "Market development",
+                                "Diversification"
+                            ],
+                            "usertag": "Robo Text",
+                            "notes": "This table studybit is created by a Robot",
+                           	"windowScrollY": "700",
+                           	"chaptername": "Chapter 2 | 2-3: Strategic Alternatives"
+                        },
+                        "bottomMostexhibit":{
+                         	"id":"IGGSXL687880230",
+                         	"name":"2.5"
+                        },
+
+                        "image":{
+                        	"studybitId": "WQBGAH367143685",
+                        	"concepts": [
+                                "Operating matrix",
+                                "Market penetration",
+                                "Market development",
+                                "Diversification"
+                            ],
+                            "usertag": "Robo Text",
+                            "notes": "This image studybit is created by a Robot",
+                        	"windowScrollY": "900",
+                        	"chaptername": "Chapter 2 | 2-3: Strategic Alternatives"
+                        },
+                        "contiguousStudybit":{
+                          "chapter" : 3,
+                            "chaptertitle":"Ethics and Social Responsibility",
+                          "topic" : 3,
+                            "topicname" :"ETHICAL BEHAVIOR IN BUSINESS",
+                          "studybitId" : "GLCFVA110697624",
+                          "studybitIdForBHead" : "FGAWOS048442264",
+                          "studybitIdForCHead" : "SYGLGG959358792",
+                          "windowScrollY": "800",
+                          "windowScrollYForBHead": "3000",
+                          "windowScrollYForCHead" : "4200"
+                        }
+                    },
+
+                    "flashcard":{
+                      "userflashcard":{
+                        "valuetext":[
+                        "Robo Text for Flashcard Front",
+                        "Robo Text for Flashcard Front"
+                        ],
+                        "chapter": "Chapter 1: An Overview of Marketing",
+                        "usertag": "Robo Tag For Flashcard",
+                        "comprehension":"WEAK",
+                        "reviewComprehension": "weak"
+                      }
+                    },
+                    "casassignments": {
+                    	"chapter": 1,
+                    	"count": 2,
+                    	"scrollY": 1500,
+                    	"imgsrc": "GUUPRR205951736"
+                    },
+
+                    "flashcards":{
+                        "publisher":{
+                            "chapters":[
+                                {
+                                    "id":1,
+                                    "name": "Chapter 1: An Overview of Marketing",
+                        			"totalchaptercount":"21",
+                        			"scrollY": "2953",
+                                    "cards": {
+                                        "totalcount": [14,22,13,10,25,34,22,19,31,24,15,15,39,30,41,22,36,20,11,23,33],
+                                        "card":{
+                                            "id": 3,
+                                            "front":"Teamwork",
+                                            "back":"collaborative efforts of people to accomplish common objectives",
+                                            "publishertags":{"0":"Customer responsiveness","1":"Customer satisfaction","2":"Customer value"},
+                                            "usertags":""
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+
+
+                    "carousel": {
+                        "idofheading": "NWZYZU470318123",
+                        "urlforfirsttileimage": "/graphics/YWDENQ808646029",
+                        "idoffirstimage": "LCHBRJ428103123",
+                        "idofsecondimage": "LCHBRJ428103538",
+                        "heading": "Ursula Burns, CEO of Xerox Corporation"
+                    },
+                    "toc": {
+                        "heading": "Table of Contents",
+                        "chapterintro": "1-CI\nCHAPTER INTRODUCTION",
+                        "chapterintro2":"2-CI\nCHAPTER INTRODUCTION",
+                        "cssofkeyterm":"OAOECY080543414>header>h2",
+                        "value":"Key Terms",
+                        "idofkeyterm":"KCBGEN557982114",
+                        "keyterm":"marketing",
+                        "scrollY":"5000",
+                        "scrollforkeyterm":"0",
+                        "topic":{
+                        "2": "1-CI: Chapter Introduction",
+                        "3": "1-1: What Is Marketing?",
+                        "4": "1-2: Marketing Management Philosophies",
+                        "5": "1-3: Differences between Sales and Market Orientations",
+                        "6": "1-4: Why Study Marketing",
+                        "7": "1-CR: Chapter Review"
+                        }
+                    },
+                    "assignment": {
+                        "reading": {
+                            "chapter": [
+                                {
+                                    "id": 1,
+                                    "title": "1 An Overview of Marketing"
+                                },
+                                {
+                                    "id": 3,
+                                    "title": "3 Ethics and Social Responsibility"
+                                }
+                            ]
+                        }
+                    },
+                    "documents": {
+                        "managedocuments": [
+                            {
+                                "chapter": "Chapter 1",
+                                "documents": [
+                                    "Ch 1 - Who Wants to be a Marketer?",
+                                    "Ch 1 - Instructor Prep Card"
+                                ]
+                            }
+                        ],
+                        "assignments": [
+                            {
+                                "chapter": "Chapter 2: Strategic Planning for Competitive Advantage",
+                                "documents": [
+                                    {
+                                        "href": "/resources/TDYPXF575340275/Ch2-InstructorPrepCard.PDF",
+                                        "name": "Ch 2 - Instructor Prep Card"
+                                    },
+                                    {
+                                        "href": "/resources/XYAUPW658802152/Ch2-PowerPointSlides.PPT",
+                                        "name": "Ch 2 - PowerPoint Slides"
+                                    }
+                                ],
+                                "Reading": [
+                                    {
+                                        "topic": "Topic 3",
+                                        "chapter": "3 Ethics and Social Responsibility"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "concepttracker": {
+                "quiz": {
+                    "chapterbased": {
+                        "name": "Chapter 3: Ethics and Social Responsibility",
+                        "desiredchapterforquiz": "Chapter 3 Quiz"
+                    },
+                    "studybitbased": {
+                        "name": "Chapter 3: Ethics and Social Responsibility",
+                        "studybit": {
+                            "text": {
+                                "id": "OXVTIA355516529",
+                                "concepts": "Ethics",
+                                "usertag": "Robo Text",
+                                "notes": "This studybit is created by a Robot",
+                                "comprehension": "strong",
+                                "windowScrollY": "500",
+                                "chaptername": "Chapter 3 | 3-1: Determinants of a Civil Society"
+                            },
+                            "keyterm": {
+                                "id": "JVMKUK277682668",
+                                "definition": "ethical theory that states that people should adhere to their obligations and duties when analyzing an ethical dilemma",
+                                "publishertag": "Ethical theories",
+                                "comprehension": "FAIR",
+                                "notes": "This studybit is created by a Robot",
+                                "usertag": "Robot Key Term",
+                                "windowScrollY": "1600"
+                            }
+                        }
+                    }
+                }
+            },
+            "search_keyword": "Marketing",
+            "search_result_count": "100",
+            "inline_links" :{
+                    "chapter": {
+                        "context_id":"PASYAZ921660054",
+                        "link_text": "Chapter 9",
+                        "ordinal": "CHAPTER 9",
+                        "title": "Marketing Research"
+                    }
+                }
+        	},
+        {
+            "productid": "PSYCH4",
+            "chapter": {
+                "id": 1,
+                "title": "What Is Psychology?",
+                "title2": "Biology and Psychology",
+                "topic": {
+                    "id": 1,
+                    "title": " Psychology as a Science",
+                    "titlehero": "PSYCHOLOGY AS A SCIENCE",
+                    "chapterhighlightitem": "HNRHHE375399193",
+                    "studybit": {
+                        "text": {
+                            "id": "DPLCPT692626121",
+                            "concepts": [
+                                "Psychology",
+                                "Psychology perspectives"
+                            ],
+                            "usertag": "Robo Text",
+                            "notes": "This studybit is created by a Robot",
+                            "comprehension": "strong",
+                            "windowScrollY": "600",
+                            "chaptername": "Chapter 1 | 1-1: Psychology as a Science"
+                        },
+                        "keyterm": {
+                            "id": "QGXZZS985733335",
+                            "definition": "the science that studies behavior and mental processes",
+                            "publishertag": "Psychology",
+                            "comprehension": "FAIR",
+                            "notes": "Psychology Key Term studybit created by Robot",
+                            "usertag": "Robot Key Term",
+                            "windowScrollY": "500"
+                        },
+                         "exhibit":{
+                        	"chapter" : 5,
+                        	"chaptertitle":"Consciousness",
+                             "topic" : 4,
+                             "topicname":"Altering Consciousness through Drugs",
+                        	"studybitId" : "PQALEK885918967",
+                        	"concepts": [
+                                "Drug altered consciousness",
+                                "Central nervous system depressants"
+                            ],
+                            "usertag": "Robo Text",
+                            "notes": "This table studybit is created by a Robot",
+                           	"windowScrollY": "1200",
+                           	"chaptername": "Chapter 4 | 4-4: Altering Consciousness through Drugs"
+                        },
+                        "bottomMostexhibit":{
+                         	"id":"TLTPIQ222556982",
+                         	"name":"4.1."
+                        },
+
+                        "image":{
+                        	"studybitId": "NVQASC429509718",
+                        	"concepts": [
+                                "Drug altered consciousness",
+                                "Central nervous system stimulants"
+                            ],
+                            "usertag": "Robo Text",
+                            "notes": "This image studybit is created by a Robot",
+                        	"windowScrollY": "1800",
+                        	"chaptername": "Chapter 4 | 4-4: Altering Consciousness through Drugs"
+                        },
+                        "contiguousStudybit":{
+                          "chapter" : 3,
+                            "chaptertitle":"Sensation and Perception",
+                          "topic" : 3,
+                            "topicname":"VISUAL PERCEPTION",
+                          "studybitId" : "ZBDJEZ035129046",
+                          "studybitIdForBHead" : "ONEYOW268822914",
+                          "studybitIdForCHead" : "YLGUUW537079919",
+                          "windowScrollY": "1100",
+                          "windowScrollYForBHead": "1500",
+                          "windowScrollYForCHead": "1900"
+                        }
+                    },
+
+                    "casassignments":{
+                    	"chapter": 2,
+                    	"count": 10,
+                    	"scrollY": 2700,
+                    	"imgsrc": "AXRXRH985613566"
+                    },
+
+                    "flashcards":{
+                        "publisher":{
+                            "chapters":[
+                                {
+                                    "id":1,
+                                    "name": "Chapter 1: What Is Psychology?",
+                        			"totalchaptercount":"14",
+                        			"scrollY": "2953",
+                                    "cards": {
+                                        "totalcount": [34,65,59,31,34,35,29,27,44,31,17,35,24,35],
+                                        "card":{
+                                            "id": 3,
+                                            "front":"Gender",
+                                            "back":"the culturally defined concepts of masculinity and femininity",
+                                            "publishertags":{"0":"Sociocultural theories"},
+                                            "usertags":""
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    },
+
+                    "carousel": {
+                        "idofheading": "ATLXNN228948671",
+                        "idofimageoncorousel": "IJXYJX972980384",
+                        "urlforfirsttileimage": "/graphics/WSNRDI715268901",
+                        "idofsecondimage": "BUOMWI291506618",
+                        "heading": "The Psychologists: Psychologists with New Doctorates versus Members of the American Psychological Association (APA)"
+                    },
+                    "toc": {
+                        "heading": "Table of Contents",
+                        "chapterintro": "1-CI\nCHAPTER INTRODUCTION",
+                        "chapterintro2":"2-CI\nCHAPTER INTRODUCTION",
+                        "cssofkeyterm":"QDUDMM757726220",
+                        "value":"Key Terms",
+                        "keyterm":"psychology",
+                        "idofkeyterm":"UOAYCN420316934",
+                        "scrollY":"10000",
+                        "scrollforkeyterm":"3500",
+                        "topic":{
+                        "2": "1-CI: Chapter Introduction",
+                        "3": "1-1: Psychology as a Science",
+                        "4": "1-2: What Psychologists Do",
+                        "5": "1-3: Where Psychology Comes From: A History",
+                        "6": "1-4: How Today’s Psychologists View Behavior and Mental Processes",
+                        "7": "1-5: How Psychologists Study Behavior and Mental Processes",
+                        "8": "1-CR: Chapter Review"
+                        }
+                    },
+                    "assignment": {
+                        "reading": {
+                            "chapter": [
+                                {
+                                    "id": 1,
+                                    "title": "1 What Is Psychology?"
+                                },
+                                {
+                                    "id": 3,
+                                    "title": "3 Sensation and Perception"
+                                }
+                            ]
+                        }
+                    },
+                    "documents": {
+                        "managedocuments": [
+                            {
+                                "chapter": "Chapter 1",
+                                "documents": [
+                                    "Ch 1 - Slides",
+                                    "Ch 1 - Chapter Review Cards"
+                                ]
+                            }
+                        ],
+                        "assignments": [
+                            {
+                                "chapter": "Chapter 2: Biology and Psychology",
+                                "documents": [
+                                    {
+                                        "href": "/resources/PSOJGR495746681/Ch2-ChapterPrepCards.PDF",
+                                        "name": "Ch 2 - Chapter Prep Cards"
+                                    },
+                                    {
+                                        "href": "/resources/GAVXOI572772364/Ch2-Slides.PPTX",
+                                        "name": "Ch 2 - Slides"
+                                    }
+                                ],
+                                "Reading": [
+                                    {
+                                        "topic": "Topic 4",
+                                        "chapter": "4 Consciousness"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "concepttracker": {
+                "quiz": {
+                    "chapterbased": {
+                        "name": "Chapter 3: Sensation and Perception",
+                        "desiredchapterforquiz": "Chapter 3 Quiz"
+                    },
+                    "studybitbased": {
+                        "name": "Chapter 3: Sensation and Perception",
+                        "studybit": {
+                            "text": {
+                                "id": "ILGXZP343500414",
+                                "concepts": [
+                                	"Visual perception",
+                                	"Vision"
+                                ],
+                                "usertag": "Robo Text",
+                                "notes": "This studybit is created by a Robot",
+                                "comprehension": "strong",
+                                "windowScrollY": "100"
+                            },
+
+                          "keyterm": {
+                                "id": "GTWGMS474119678",
+                                "definition": "the color of light, as determined by its wavelength",
+                                "publishertag": "Light",
+	                            "comprehension": "FAIR",
+	                            "notes": "Psychology Key Term studybit created by Robot",
+	                            "usertag": "Robot Key Term",
+	                            "windowScrollY": "900"
+                            }
+                        }
+                    }
+                }
+            },
+            "search_keyword": "Psychology",
+            "search_result_count": "100"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "integration_url":"https://kt-login.cengage.com/cb/login.htm",
+
+    "users":{
+
+        "instructor":[
+            {
+                "credentials":{
+                    "username":"qa.inst.devint2@cengage.com",
+                    "password":"T3sting"
+                }
+            }
+        ],
+
+        "student": [
+            {
+                "credentials": {
+                    "username": "qa.student.int2@cengage.com",
+                    "password": "T3sting",
+                    "firstname": "D'rone",
+                    "lastname": "Integration"
+                }
+            }
+        ]
+
+
+    }
+}

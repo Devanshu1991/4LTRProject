@@ -1,0 +1,28 @@
+{
+
+  "prod_url":"https://login.cengage.com/cb/login.htm",
+
+"users":{
+
+	"instructor":[
+		 {
+		    "credentials":{
+				    "username":"nirmal.balasundaram@contractor.cengage.com",
+				    "password":"T3sting"
+		   	}
+		 }
+ 	],
+
+	"student": [
+     	 {
+	        "credentials": {
+		          "username": "qa.automation.student@cengage.com",
+		          "password": "T3sting",
+                  "firstname": "Automation",
+                  "lastname": "QA"
+       		 }
+    	  }
+  	]
+
+}
+}

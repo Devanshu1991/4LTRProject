@@ -1,0 +1,166 @@
+{
+  "termsAssociatedWithInstructorUser":[
+
+		      "instructor",
+		      "Marketing",
+		      "marketing",
+		      "Psychology",
+		      "Assignments Course",
+		      "TestCourse7",
+		      "Marketing Strategy",
+		      "Enter search term",
+		      "newinstructor",
+		      "Gradebook Version"
+
+      	],
+
+  "termsAssociatedWithStudentUser":[
+
+    		   "student",
+    		   "Marketing",
+    		   "Psychology",
+    		   "TestCourse7",
+    		   "selfstudent",
+    		   "newstudent",
+    		   "Assignments Course",
+    		   "PSYHC4",
+    		   "ConceptTrackerStudent",
+    		   "ConceptTrackerCourse",
+    		   "Course For Sanity",
+    		   "PSYCH4 Course for sanity"
+
+    	],
+
+   "stagingEnvironmentDetails":[
+
+    		   "studentUser",
+    		   "instructorUser"
+
+
+    	],
+
+    "existingCourseDetails":{
+
+        "usertype" : "instructor",
+        "product" :"MKTG9",
+        "coursename" : "Automation : MKTG9"
+
+    },
+   "termsAssociatedWithDevInstructor": [
+   		"devInstructor",
+   		"TestCourse",
+       "MKTG9"
+   ],
+
+   "termsAssociatedWithAssignmentInstructor":[
+   		"assignmentInstructor",
+   		"Assignments Course",
+   		"Course For Sanity",
+   		"PSYCH4 Course for Sanity"
+   ],
+   "termsAssociatedWithConceptTrackerStudentInstructor":[
+   		"conceptTrackerInstructor",
+   		"ConceptTracker Course"
+   ],
+
+   "courseAccessInformation":{
+    		"temporaryAccessForDateSetToday": "20 days",
+    		"temporaryAcessForDateSet10DaysBeforeToday": "10 days",
+    		"DateBeforeToday":"10",
+    		"DateAfterToday": "1"
+    },
+
+   "assignmentDetailsToBeFilled":{
+   	"assignmentName" : "Automated Assignment",
+   	"editAssignmentName" : "Edited Assignment",
+   	"assignmentDescription" : "Assignment Created by automation script"
+   },
+
+   "assignmentDetailsToBeFilled12":{
+   	"assignmentName" : "Automated Chapter Reading"
+   },
+
+   "assignmentDetailsToBeFilled22":{
+   	"assignmentName" : "Automated assessment",
+   	"editAssignmentName" : "Edited Assignment"
+   },
+
+   "assignmentDetailsToBeFilledForFilter":{
+   	"assignmentName" : "Automated assessment for Filter"
+   },
+
+   "searchFeatureDetails" :{
+	"searchTermForMKTG9": "Marketing",
+	"searchTermForPSYCH4" : "Psychology",
+	"searchReturned" : "100 Search Results"
+		},
+
+	"assessmentDetails" :{
+    "assessmentName" : "Automated Assignment",
+    "endToEndWorkflowAssignment" : "Q-C1–1Q-10pt-HS-IWBI",
+    "visualCueForPreviewAssessment" : "Each student will receive a randomized set of questions"
+   },
+
+  "attachement_documentAndLinks" :{
+  "Chapter1" : "Ch 1 - Case Study",
+  "Chapter3" : "Ch 3 - Who Wants to Be a Marketer?"
+  },
+
+  "alertForFlashcardFileter" :{
+  "messege" : "Your Flashcard has been created but is not visible due to the current filter."
+  },
+
+  "instructorResourceCenter" : {
+  "createCourseQuestionLabel" : "Would you like to create a new course or copy an existing course?",
+  "courseInformationLabel" : "Course Information (Required)"
+  },
+
+  "viewPastPracticeQuizPage" : {
+  "pastQuizLabel" : "My Past Quizzes"
+  },
+
+  "flashcardTerms" : {
+  "frontEndText" : "Front End text by Automation Script",
+  "backEndText" : "Back End text by Automation Script"
+  },
+
+  "notesTerms" : {
+  "noteText" : "Note added through Automation script",
+  "noteText2" : "Note added through ROBO",
+  "editedtext": "Edited note text through ROBO",
+  "notesCount" : 2
+  },
+
+  "studybitTerms": {
+    "comprehension":"WEAK",
+    "editedUserTagText":"Edited User Tag"
+  },
+
+  "studentGradebookTerms":{
+  "classAverage": "Class Avg (Pts)"
+  },
+
+  "courseCreationTimeOut":{
+      "integration" : 60000,
+      "staging" : 60000,
+      "production" : 60000
+
+  },
+
+    "courseAggregationTimeOut":{
+        "integration" : 360000,
+        "staging" : 360000,
+        "production" : 360000
+
+    },
+
+    "products" :{
+        "isbn": {
+            "MKTG9": "9781285860169",
+            "PSYCH4": "9781305091924"
+        }
+    }
+
+
+
+}

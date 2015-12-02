@@ -1,0 +1,30 @@
+{
+    "global":{
+        "assignment":{
+            "message":"We are unable to locate this assignment. Please check with your instructor as it may have been moved or changed."
+        }
+    },
+    "integration" : {
+
+        "student": {
+            "id": "nirmal@cengage.com"
+        },
+        "course" :{
+            "eISBN":"9781305580251",
+            "courseKey":"4LPQNDCPNMF7",
+            "titleIsbn":"9781285860169",
+            "assignment":{
+                "courseCgi":"APWUQUQYW3GJAGJZG173",
+                "name":"LTR-1905 MINDLINKS ASSIGNMENT",
+                "nameonhtml":"LTR-1905 mindlinks assignment"
+            }
+        },
+        "assignment": {
+            "url": "https://4ltr-services-dev.cengage.info/services/assignments/course"
+        },
+        "product":{
+            "url":"https://4ltr-dev.cengage.info"
+        }
+
+    }
+}

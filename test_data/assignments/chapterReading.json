@@ -1,0 +1,13 @@
+{
+
+    "assignment":{
+			
+			"type": "chapter reading",
+            "name":"Robo DNL"
+        },
+    "dragndrop" : {
+    		"fromDate": "1",
+    		"toDate": "2"
+    }
+
+}

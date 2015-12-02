@@ -193,6 +193,7 @@ describe('CCS/CAS/ASSIGNMENT :: INSTRUCTOR ASSIGNMENT CREATION, STUDENT SUBMISSI
         userSignOut.userSignOut(browser, done);
 
     });
+  
 
     it("9. Login as student", function (done) {
 

@@ -1,0 +1,7 @@
+{
+  "browser": "chrome",
+  "server": "http://localhost:4444/wd/hub",
+  "timeout": 10000,
+
+  "testDataFile": "test_data/qa.json"
+}

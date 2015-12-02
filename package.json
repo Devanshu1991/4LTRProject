@@ -1,0 +1,49 @@
+{
+  "name": "4LTRAutomation",
+  "description": "4LTR Automation using wd,mocha and chai",
+  "version": "1.0.1",
+  "homepage": "4LTR",
+  "author": {
+    "name": "Nirmal Balasundaram",
+    "email": "nirmal.balasundaram@cengage.com",
+    "url": "nirmal.url"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Learn"
+  },
+  "bugs": {
+    "url": "JIRA"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "Sauce/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "4LTR",
+  "engines": {
+    "node": "0.10.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "devDependencies": {
+    "chai": "latest",
+    "chai-as-promised": "latest",
+    "colors": "latest",
+    "grunt": "~0.4.5",
+    "grunt-concurrent": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-env": "latest",
+    "grunt-simple-mocha": "latest",
+    "lodash": "latest",
+    "supertest": "^1.1.0",
+    "wd": "latest",
+      "underscore": "latest",
+      "soap":"latest",
+      "q":"latest"
+  },
+  "keywords": []
+}

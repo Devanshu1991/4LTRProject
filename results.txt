@@ -1,0 +1,20 @@
+
+[0m[0m
+[0m  CHAPTER, FEATURED IMAGES, COROUSEL VALIDATION[0m
+********** Run Environment Variable Values :: "local"**********
+<div><h2 id="title">4LTR SMOKE FEATURES :: STUDYBIT, FLASHCARD, NOTES CREATION AND CONCEPT TRACKER VALIDATION</h2></div>
+======================================
+<div><ol class="testdata"><li class="testdatatitle">TEST DATA </li><li>Environment :: "integration"</li><li>URL to login :: <a href="https://kt-login.cengage.com/cb/login.htm">https://kt-login.cengage.com/cb/login.htm</a></li><li>Login Id :: qa.student.devint@cengage.com</li><li>Login Password :: T3sting</li><li>Product     :: MKTG9</li><li>Course Name     :: Automation : MKTG9</li></ol></div>
+<div><ol class="testdata"><li>CHAPTER 1  :: An Overview of Marketing</li></ol></div>
+<div><ol class="testdata"><li>TOPIC 1  ::  What Is Marketing?</li></ol></div>
+<div><ol class="testdata"><li>STUDYBITID :: UOAACS502645371</li></ol></div>
+<div><ol class="testdata"><li>STUDYBIT CONCEPT :: Marketing</li></ol></div>
+[2K[0G  [32m  √[0m[90m 1. Login to 4LTR platform [0m[31m(21139ms)[0m
+[2K[0G  [32m  √[0m[90m 2. Select a Course and launch [0m[31m(63123ms)[0m
+[2K[0G  [32m  √[0m[90m 3. Verify the Chapter Tiles Image [0m[31m(85ms)[0m
+[2K[0G  [32m  √[0m[90m 4. Navigate to a Chapter [0m[31m(150ms)[0m
+[2K[0G  [31m  1) 5. Verify the presence of 6 Chapter highlight boxes on Chapter Tiles Expanded View[0m
+
+
+[92m [0m[32m 4 passing[0m[90m (1m)[0m
+
